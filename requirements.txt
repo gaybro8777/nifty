@@ -2,7 +2,7 @@ PyYAML>=4.2b1
 Scrapy==0.16.4
 httplib2==0.7.2
 jsonpickle==0.4.0
-lxml==2.3.2
+lxml==4.6.2
 matplotlib==1.1.1rc
 nose==1.1.2
 numpy==1.6.1
